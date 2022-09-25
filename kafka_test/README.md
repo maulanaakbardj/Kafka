@@ -1,6 +1,6 @@
 # Docker Containers
 * Kafka
-* Zookeper
+* Zookeeper
 * Kafdrop
 
 ## Instructions
