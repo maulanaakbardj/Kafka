@@ -1,2 +1,3 @@
-# Instructions
+# Docker Containers
+## Instructions
 Run file containers up with `docker-compose up -d`
