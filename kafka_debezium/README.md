@@ -17,6 +17,7 @@ Run file containers up with `docker-compose -f docker-compose-debezium.yaml up -
 
 POST  http://localhost:8083/connectors --> To register the kafka connector with Postman
 
+
 JSON :
 
       {
