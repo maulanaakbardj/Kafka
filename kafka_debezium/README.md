@@ -1,7 +1,7 @@
 # Run Debezium Kafka Connect using Docker
 ![image](https://user-images.githubusercontent.com/67249292/200215708-5e469a32-4c8c-4d67-a7a9-156b953a6b33.png)
 
-# Local System
+# Local Systems
 * Docker Dekstop
 * pgAdmin/DBeaver
 * Postman
